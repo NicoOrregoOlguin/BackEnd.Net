@@ -1,0 +1,17 @@
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.deps.json
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.runtimeconfig.json
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Shared.dll
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Shared.pdb
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.AssemblyReference.cache
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfoInputs.cache
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfo.cs
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CopyComplete
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\refint\API.FurnitureStore.Data.dll
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.genruntimeconfig.cache
+C:\Users\Nicolás\Downloads\net\API.FurnitureStore-main\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\ref\API.FurnitureStore.Data.dll

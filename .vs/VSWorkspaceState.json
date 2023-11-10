@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API.FurnitureStore",
+    "\\API.FurnitureStore\\API.FurnitureStore.API",
+    "\\API.FurnitureStore\\API.FurnitureStore.API\\bin",
+    "\\API.FurnitureStore\\API.FurnitureStore.API\\bin\\Release",
+    "\\API.FurnitureStore\\API.FurnitureStore.API\\Configuration",
+    "\\API.FurnitureStore\\API.FurnitureStore.API\\Controllers",
+    "\\API.FurnitureStore\\API.FurnitureStore.API\\Services",
+    "\\API.FurnitureStore\\API.FurnitureStore.Shared",
+    "\\API.FurnitureStore\\API.FurnitureStore.Shared\\DTOs"
+  ],
+  "SelectedNode": "\\API.FurnitureStore\\API.FurnitureStore.API\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
